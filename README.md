@@ -8,4 +8,6 @@ Visit the links below for specific types of resources:
 
 You can also visit these repos for more GIS resources
  - [Awesome Public Datasets - Github](https://github.com/awesomedata/awesome-public-datasets) (Not all spatial datasets)
- - more coming soon!
+ - [Awesome GIS - Github](https://github.com/sshuair/awesome-gis)
+    - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+ - *more coming soon!*
