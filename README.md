@@ -1,4 +1,4 @@
-# GIS-Resources
+# GIS Resources
 
 This repo contains a variety of geographic information systems (GIS) resources I've collected and curated. This started as a resource for an Intro to GIS class I was TAing, and I've continued to add to it ever since!
 
