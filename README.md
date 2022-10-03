@@ -1,6 +1,6 @@
 # GIS Resources
 
-This repo contains a variety of geographic information systems (GIS) resources I've collected and curated. This started as a resource for an Intro to GIS class I was TAing, and I've continued to add to it ever since. Forks and PRs welcome if you have something to add to any of the areas, please open an issue with any questions, corrections, or dead links. Thanks, and enjoy!
+This repo contains a variety of geographic information systems (GIS) resources I've collected and curated. This started as a resource for an Intro to GIS class I was TAing, and I've continued to add to it ever since. Forks and PRs are welcome if you have something to add to any of the areas, and please open an issue with any questions, corrections, or dead links. Thanks, and enjoy!
 
 Visit the links below for specific types of resources:
  - [Data Sources](data-sources.md)
