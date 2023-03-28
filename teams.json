@@ -435,7 +435,7 @@
                     "properties": {
                         "name": "Florida",
                         "Abbreviated State": "FL",
-                        "Has Team": "Y"
+                        "Has Team": "Y",
                         "URL": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
                         "LogoURL": "https://en.wikipedia.org/wiki/Inter_Miami_CF#/media/File:Inter_Miami_CF_logo.svg"
                     }
@@ -456,7 +456,7 @@
                     "properties": {
                         "name": "Georgia",
                         "Abbreviated State": "GA",
-                        "Has Team": "Y"
+                        "Has Team": "Y",
                         "URL": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
                         "LogoURL": "https://en.wikipedia.org/wiki/Atlanta_United_FC#/media/File:Atlanta_MLS.svg"
                     }
@@ -493,7 +493,7 @@
                     "properties": {
                         "name": "Kansas",
                         "Abbreviated State": "KS",
-                        "Has Team": "Y"
+                        "Has Team": "Y",
                         "URL": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
                         "LogoURL": "https://en.wikipedia.org/wiki/Sporting_Kansas_City#/media/File:Sporting_Kansas_City_logo.svg"
                     }
@@ -547,9 +547,7 @@
                     "properties": {
                         "name": "Maine",
                         "Abbreviated State": "ME",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/maine",
-                        "LogoURL": "logos/Maine_home.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -625,7 +623,9 @@
                     "properties": {
                         "name": "New Jersey",
                         "Abbreviated State": "NJ",
-                        "Has Team": "N"
+                        "Has Team": "Y"
+                        "URL": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+                        "LogoURL": "https://en.wikipedia.org/wiki/New_York_Red_Bulls#/media/File:New_York_Red_Bulls_logo.svg"
                     }
                 },
                 {
@@ -656,8 +656,8 @@
                         "name": "North Carolina",
                         "Abbreviated State": "NC",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/north-carolina",
-                        "LogoURL": "logos/North+Carolina+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/Charlotte_FC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Charlotte_FC#/media/File:Charlotte_FC_logo.svg"
                     }
                 },
                 {
@@ -713,7 +713,9 @@
                     "properties": {
                         "name": "Pennsylvania",
                         "Abbreviated State": "PA",
-                        "Has Team": "N"
+                        "Has Team": "Y",
+                        "URL": "https://en.wikipedia.org/wiki/Philadelphia_Union",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Philadelphia_Union#/media/File:Philadelphia_Union_2018_logo.svg"
                     }
                 },
                 {
@@ -751,8 +753,8 @@
                         "name": "Texas",
                         "Abbreviated State": "TX",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/texas",
-                        "LogoURL": "logos/Texas+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+                        "LogoURL": "https://upload.wikimedia.org/wikipedia/en/6/66/Houston_Dynamo_FC_logo.svg"
                     }
                 },
                 {
@@ -788,9 +790,7 @@
                     "properties": {
                         "name": "Connecticut",
                         "Abbreviated State": "CT",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/connecticut",
-                        "LogoURL": "logos/Connecticut+Logo+Home+Page.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -814,8 +814,8 @@
                         "name": "Missouri",
                         "Abbreviated State": "MO",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/missouri",
-                        "LogoURL": "logos/Missouri+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/St._Louis_City_SC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/St._Louis_City_SC#/media/File:St._Louis_City_SC_logo.svg"
                     }
                 },
                 {
@@ -987,7 +987,9 @@
                     "properties": {
                         "name": "District of Columbia",
                         "Abbreviated State": "DC",
-                        "Has Team": "N"
+                        "Has Team": "Y",
+                        "URL": "https://en.wikipedia.org/wiki/D.C._United",
+                        "LogoURL": "https://upload.wikimedia.org/wikipedia/en/3/32/D.C._United_logo_%282016%29.svg"
                     }
                 },
                 {
@@ -1038,9 +1040,7 @@
                     "properties": {
                         "name": "Hawaii",
                         "Abbreviated State": "HI",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/hawaii",
-                        "LogoURL": "logos/Hawaii+Home+Page.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -1191,9 +1191,7 @@
                     "properties": {
                         "name": "Michigan",
                         "Abbreviated State": "MI",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/michigan",
-                        "LogoURL": "logos/Michigan_home.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -1251,9 +1249,7 @@
                     "properties": {
                         "name": "Montana",
                         "Abbreviated State": "MT",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/montana",
-                        "LogoURL": "logos/Montana+Home+Page.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -1271,9 +1267,7 @@
                     "properties": {
                         "name": "New Hampshire",
                         "Abbreviated State": "NH",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/new-hampshire",
-                        "LogoURL": "logos/New+Hampshire+Home+Page.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -1322,8 +1316,8 @@
                         "name": "New York",
                         "Abbreviated State": "NY",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/new-york",
-                        "LogoURL": "logos/New+York+Logo+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/New_York_City_FC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/New_York_City_FC#/media/File:New_York_City_FC.svg"
                     }
                 },
                 {
@@ -1355,8 +1349,8 @@
                         "name": "Ohio",
                         "Abbreviated State": "OH",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/ohio",
-                        "LogoURL": "logos/Ohio+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/Columbus_Crew",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Columbus_Crew#/media/File:Columbus_Crew_logo_2021.svg"
                     }
                 },
                 {
@@ -1374,7 +1368,9 @@
                     "properties": {
                         "name": "Oregon",
                         "Abbreviated State": "OR",
-                        "Has Team": "N"
+                        "Has Team": "Y",
+                        "URL": "https://en.wikipedia.org/wiki/Portland_Timbers",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Portland_Timbers#/media/File:Portland_Timbers_logo.svg"
                     }
                 },
                 {
@@ -1398,8 +1394,8 @@
                         "name": "Tennessee",
                         "Abbreviated State": "TN",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/tennessee",
-                        "LogoURL": "logos/Tennessee+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/Nashville_SC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Nashville_SC#/media/File:Nashville_SC_MLS_2020.svg"
                     }
                 },
                 {
@@ -1417,7 +1413,9 @@
                     "properties": {
                         "name": "Utah",
                         "Abbreviated State": "UT",
-                        "Has Team": "N"
+                        "Has Team": "Y",
+                        "URL": "https://en.wikipedia.org/wiki/Real_Salt_Lake",
+                        "LogoURL": "https://upload.wikimedia.org/wikipedia/en/5/54/Real_Salt_Lake_2010.svg"
                     }
                 },
                 {
@@ -1452,9 +1450,7 @@
                     "properties": {
                         "name": "Virginia",
                         "Abbreviated State": "VA",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/virginia",
-                        "LogoURL": "logos/Virginia_home.png"
+                        "Has Team": "N"
                     }
                 },
                 {
@@ -1522,7 +1518,9 @@
                     "properties": {
                         "name": "Washington",
                         "Abbreviated State": "WA",
-                        "Has Team": "N"
+                        "Has Team": "Y",
+                        "URL": "https://en.wikipedia.org/wiki/Seattle_Sounders_FC",
+                        "LogoURL": "https://upload.wikimedia.org/wikipedia/en/2/27/Seattle_Sounders_FC.svg"
                     }
                 },
                 {
@@ -1771,9 +1769,7 @@
                     "properties": {
                         "name": "Rhode Island",
                         "Abbreviated State": "RI",
-                        "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/rhode-island",
-                        "LogoURL": "logos/Rhode+Island+Home+Page.png"
+                        "Has Team": "N"
                     }
                 }
             ]
