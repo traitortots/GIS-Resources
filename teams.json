@@ -435,7 +435,9 @@
                     "properties": {
                         "name": "Florida",
                         "Abbreviated State": "FL",
-                        "Has Team": "N"
+                        "Has Team": "Y"
+                        "URL": "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Inter_Miami_CF#/media/File:Inter_Miami_CF_logo.svg"
                     }
                 },
                 {
@@ -454,7 +456,9 @@
                     "properties": {
                         "name": "Georgia",
                         "Abbreviated State": "GA",
-                        "Has Team": "N"
+                        "Has Team": "Y"
+                        "URL": "https://en.wikipedia.org/wiki/Atlanta_United_FC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Atlanta_United_FC#/media/File:Atlanta_MLS.svg"
                     }
                 },
                 {
@@ -489,7 +493,9 @@
                     "properties": {
                         "name": "Kansas",
                         "Abbreviated State": "KS",
-                        "Has Team": "N"
+                        "Has Team": "Y"
+                        "URL": "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Sporting_Kansas_City#/media/File:Sporting_Kansas_City_logo.svg"
                     }
                 },
                 {
@@ -577,8 +583,8 @@
                         "name": "Massachusetts",
                         "Abbreviated State": "MA",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/massachusetts",
-                        "LogoURL": "logos/Massachusetts+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/New_England_Revolution",
+                        "LogoURL": "https://en.wikipedia.org/wiki/New_England_Revolution#/media/File:New_England_Revolution_(2021)_logo.svg"
                     }
                 },
                 {
@@ -597,8 +603,8 @@
                         "name": "Minnesota",
                         "Abbreviated State": "MN",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/minnesota",
-                        "LogoURL": "logos/Minnesota+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/Minnesota_United_FC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Minnesota_United_FC#/media/File:Minnesota_United_FC_(MLS)_Primary_logo.svg"
                     }
                 },
                 {
@@ -847,8 +853,8 @@
                         "name": "Illinois",
                         "Abbreviated State": "IL",
                         "Has Team": "Y",
-                        "URL": "https://www.zoningatlas.org/illinois",
-                        "LogoURL": "logos/Illinois+Home+Page.png"
+                        "URL": "https://en.wikipedia.org/wiki/Chicago_Fire_FC",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Chicago_Fire_FC#/media/File:CHI_Logo-2021.svg"
                     }
                 },
                 {
