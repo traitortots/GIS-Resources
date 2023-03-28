@@ -623,7 +623,7 @@
                     "properties": {
                         "name": "New Jersey",
                         "Abbreviated State": "NJ",
-                        "Has Team": "Y"
+                        "Has Team": "Y",
                         "URL": "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
                         "LogoURL": "https://en.wikipedia.org/wiki/New_York_Red_Bulls#/media/File:New_York_Red_Bulls_logo.svg"
                     }
