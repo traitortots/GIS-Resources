@@ -370,7 +370,9 @@
                     "properties": {
                         "name": "Colorado",
                         "Abbreviated State": "CO",
-                        "Has Team": "N"
+                        "Has Team": "Y",
+                        "URL": "https://en.wikipedia.org/wiki/Colorado_Rapids",
+                        "LogoURL": "https://en.wikipedia.org/wiki/Colorado_Rapids#/media/File:Colorado_Rapids_logo.svg"
                     }
                 },
                 {
